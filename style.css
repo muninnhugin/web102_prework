@@ -79,3 +79,7 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+img {
+    max-width: 100%;
+}
